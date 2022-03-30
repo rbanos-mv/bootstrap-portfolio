@@ -32,3 +32,19 @@ body {
       margin-top: 24px;
   }
   
+  .project-img {
+    background-color: #ebf0ee;
+    height: 252px;
+  }
+
+  .card {
+    max-width: 325px;
+  }
+
+  small {
+    font-size: 12px;
+  }
+  
+  .list-group-element {
+    padding: 8px 12px;
+  }
