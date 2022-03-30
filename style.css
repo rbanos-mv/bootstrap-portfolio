@@ -48,3 +48,12 @@ body {
   .list-group-element {
     padding: 8px 12px;
   }
+
+  .about-me-heading {
+      margin-top: 80px;
+  }
+
+  .about-icon {
+      width: 128px;
+      height: 128px;
+  }
