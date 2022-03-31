@@ -1,59 +1,14 @@
 body {
     font-family: "Inter", sans-serif;
-    /* font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 28px; */
-  }
+}
   
-  .wrapper {
-    max-width: 1440px;
-    background-image: url("../images/header-illustration-desktop.svg");
-    background-position: top center;
-    background-repeat: no-repeat;
-  }
+.wrapper {
+  max-width: 1440px;
+  background-image: url("../images/header-illustration-desktop.svg");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
 
-  .navbar {
-      height: 72px;
-  }
-  
-  .headline {
-    max-width: 1175px;
-    height: 638px;
-  }
-
-  .greeting-title {
-      margin-top: 160px;
-      height: 192px;
-  }
-
-  .supporting-text {
-      height: 96px;
-      margin-top: 24px;
-  }
-  
-  .project-img {
-    background-color: #ebf0ee;
-    height: 252px;
-  }
-
-  .card {
-    max-width: 325px;
-  }
-
-  small {
-    font-size: 12px;
-  }
-  
-  .list-group-element {
-    padding: 8px 12px;
-  }
-
-  .about-me-heading {
-      margin-top: 80px;
-  }
-
-  .about-icon {
-      width: 128px;
-      height: 128px;
-  }
+.navbar {
+    height: 72px;
+}
