@@ -1,7 +1,7 @@
 body {
-    font-family: "Inter", sans-serif;
+  font-family: "Inter", sans-serif;
 }
-  
+
 .wrapper {
   max-width: 1440px;
   background-image: url("../images/header-illustration-desktop.svg");
@@ -10,5 +10,5 @@ body {
 }
 
 .navbar {
-    height: 72px;
+  height: 72px;
 }
