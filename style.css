@@ -1,0 +1,14 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.wrapper {
+  max-width: 1440px;
+  background-image: url("../images/header-illustration-desktop.svg");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  height: 72px;
+}
